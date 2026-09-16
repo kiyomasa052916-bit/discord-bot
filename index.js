@@ -27,7 +27,7 @@ const START_COINS = 5000;
 const DAILY_COINS = 1000;
 const DAILY_COOLDOWN = 24 * 60 * 60 * 1000;
 
-const DATA_FILE = './data.json';
+const DATA_FILE = './data/data.json';
 
 // ==================================================
 // データ保存
